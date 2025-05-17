@@ -38,7 +38,7 @@ Stop-watch/
 Note: Ensure that all files are in the same directory to maintain proper linking between HTML, CSS, and JavaScript files.
 
 📸 Screenshot
-![Stopwatch Screenshot](screenshot.png)
+![Stopwatch Screenshot](Screenshot .png)
 
 
 📜 License
